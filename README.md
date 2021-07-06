@@ -6,7 +6,7 @@ Video Super Resolution is the process of generating high-res videos from the giv
 [Architecture]: Frame-Recurrent Video Super-Resolution, Sajjadi et al. (https://arxiv.org/pdf/1512.02134.pdf)
 [Dataset]: It was obtained from 30 video taken from Youtube by me.
 
-[Model](preview/dataset.png)
+![Model](preview/dataset.png)
 
 Implementation of FRVSR arhitecture with some tweaks such as:
 
@@ -16,7 +16,7 @@ Implementation of FRVSR arhitecture with some tweaks such as:
 
 [Paper](https://lmb.informatik.uni-freiburg.de/Publications/2016/MIFDB16/paper-MIFDB16.pdf)
 
-[Model](preview/frvsr.png)
+![Model](preview/frvsr.png)
 
 
 ## Requirements
@@ -33,12 +33,11 @@ Starting the GUI:
 ```
 python interface.py
 ```
-[Model](preview/interface.png)
+#[interface](preview/interface.png)
 
 ## Results
 
 Crop from an Input video (left) size 640x360 and coresponding output video (right) 2560x1440.
 
-[Model](preview/crop.png)
+![Crop](preview/crop.png)
 
-[Model](preview/interface.png)
